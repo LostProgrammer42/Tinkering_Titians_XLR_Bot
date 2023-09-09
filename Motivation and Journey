@@ -1,0 +1,24 @@
+The main motivation for us to add suspension was the stone obstacle.
+
+
+Our XLR8 Journey began with the soldering, get mechanised , get codified sessions. After the get mechanised session, we decided the design of our bot, earlier we decided to keep our bot symmetrical
+so that even if it topples it would still continue to work. We decided to add suspension using springs attached to the motor. However we soon got to know that we cant attach springs directly to motor
+Due to this limitation we decided to 3d print a motor mount and attach springs to it.For that one of our team member Manan, learned fusion 360 and was given the responsibility of designing the parts.
+I(stavan mehta) and Dev arora were designing the ciruit and the code. Many hurdles came in the way, with the first one being, none of us read the rule that our bot was supposed to fit in a 25x25x25 cm box,
+we had to completely change our design due to this, but finally we finalised a new design (After lots of fights).
+
+Then came a new hurdle: Our ESP32 got burned out on its own while we were uploading the code. It was our first time with this problem so we paniced a bit, but then the ERC folks helped us out with it.
+Finally the circuit was ready and so were the chasis and the 3d printed parts.We also decided to 3d print the wheels since the wheels available had dimension 10x4 while we needed 10x2 to minimise the width of our bot.
+
+But then came:
+
+Another problem!! When we assembled the bot it was not at all turning. At that point I gave up. But my team mates did not. They pulled an all nighter at the tinkerer's lab with the mentors to correct the design and finally the bot was able to turn though not as smoothly as the other bots.
+
+The final problem: Our esp32 again got burned!!
+We bought a replacement esp32 from a shop outside the campus since the esp32 stock at tinkerer's lab was over.
+
+It was the day of the run, tyre obstacle: Completed easily; Ramp: Done with difficulty; Avoid the cylinders: At this point the bot decided not to take our instructions, it just won't move.
+The ERC mentor told us to recharge our battery and then start the track again, we had a set back and a fear, "What if the bot still doesn't move?". But after charging the batteries the bot again
+started functioning normally and we completed the track in 9 minutes 40 seconds.
+
+At the end of the day, everything worked out......
